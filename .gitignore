@@ -1,0 +1,4 @@
+# Ignore OS or IDE specific files
+/node_modules
+/.idea
+/.git

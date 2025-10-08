@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background: #fff;
+    color: #222;
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header, footer {
+    padding: 1rem 0;
+    text-align: center;
+}
