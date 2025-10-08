@@ -1,10 +1,14 @@
 /*
-Theme Name: Mobi
-Theme URI: wordpress.com
+Theme Name: Mobi Starter
+Theme URI: https://example.com/mobi-starter
 Author: Sandeep
-Author URI: 
-Description: 
-Version: 1.0
+Author URI: https://example.com
+Description: A lightweight WordPress starter with internationalisation defaults, ACF helpers, and performance cleanups.
+Version: 1.0.0
 License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: mobi
+Tags: custom-logo, custom-menu, translation-ready
 */
+
+/* Intentionally left blank. Add project-specific styles here. */
